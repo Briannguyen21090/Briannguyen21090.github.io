@@ -1,0 +1,11 @@
+# Chỉ đưa file của trang web lên GitHub. Mọi file khác (ho-so.md, cv-nguon/, ...) bị bỏ qua.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!styles.css
+!script.js
+!assets/
+!assets/avatar.jpg
+!assets/Brian-Nguyen-CV-VI.pdf
+!assets/Brian-Nguyen-CV-EN.pdf
